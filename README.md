@@ -16,7 +16,7 @@
   kinetics of the two phenomena is close .The purpose of this examination is to study different wave patterns that arise
   from this simplified model, through different numerical methods.
   
-  ![a=9 5, 2](https://user-images.githubusercontent.com/117439192/224561077-aea3de76-b9b5-4be5-84bb-0fb52e41eaec.jpg)
+  ![image](https://user-images.githubusercontent.com/117439192/224639876-64314ed9-16c9-4337-9a73-c54b25197dcd.png)
 
 
   
@@ -35,4 +35,6 @@
   We ploted the eigenenergies as a function of the 
   flux for a 15 by 15 system.
   
+  ![image](https://user-images.githubusercontent.com/117439192/224639441-6d0b3237-4614-46c1-a5d7-35cef41e0376.png)
+
   ![OBCinbothaxes15sites](https://user-images.githubusercontent.com/117439192/224561109-946a9bd8-f4d5-4aea-ac0a-439e80b87594.jpg)
